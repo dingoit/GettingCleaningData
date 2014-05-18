@@ -1,4 +1,4 @@
-CodeBook for Getting and Cleaning Data - Peer Assessments
+CodeBook for Getting and Cleaning Data - Peer Assessment
 ========================================================
 
 We use the data from the research "Human Activity Recognition Using Smartphones Dataset" by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto (Smartlab - Non Linear Complex Systems Laboratory DITEN - Università degli Studi di Genova) [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones]
