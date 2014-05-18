@@ -11,7 +11,8 @@ In the script run_analysis.R I merge the data set test and train,  then I subset
 CodeBook
 -----------
 
-averageDF = data frame, 180 rows, 81 columns
+averageDF = data frame
+
 average.txt = the data frame is saved in this file
 
   * id = integer, subject ID                            
