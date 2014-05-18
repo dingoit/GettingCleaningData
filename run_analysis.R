@@ -3,7 +3,7 @@ test   <- read.table("test/subject_test.txt",col.names="id")
 testX  <- read.table("test/X_test.txt")
 train  <- read.table("train/subject_train.txt",col.names="id")
 trainX <- read.table("train/X_train.txt")
-
+ 
 #read the features, eliminate some characters and change the name of the variables
 Xnames <- read.table("features.txt")
 names(testX) <-  gsub("[(),]","",as.character(Xnames[,2]))
