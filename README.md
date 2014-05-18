@@ -1,4 +1,4 @@
-Getting and Cleaning Data - Peer Assessments
+Getting and Cleaning Data - Peer Assessment
 ========================================================
 
 The goal of this project is to prepare a tidy starting fro raw data.
